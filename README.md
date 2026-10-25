@@ -128,3 +128,7 @@ function reset() {
 3. **Evaluation:** `win()` checks all 8 grid vectors utilizing `check()` and `getData()`.
 4. **Outcome A (Win):** Background changes $\rightarrow$ 4-second delay $\rightarrow$ Success Alert $\rightarrow$ Grid Wiped $\rightarrow$ Background Reverts.
 5. **Outcome B (Draw):** If turns reach limit without a win flag $\rightarrow$ Draw Alert $\rightarrow$ Grid Wiped.
+
+
+### Image Here 👩‍💻
+![Game Image](Tic-Tac-ToeGame.png)
